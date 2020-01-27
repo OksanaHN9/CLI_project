@@ -34,5 +34,6 @@ def genre_description
   else 
     puts "Please either select description of genre, action, horror, fps, mmo, or exit."
   end
-end   
+end
+
 end 
